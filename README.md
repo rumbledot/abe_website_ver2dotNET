@@ -8,13 +8,17 @@ This is a simple application that demonstrate how to do MVC development using C#
 
 The project was deployed to Azure App Service and the database is deployed to SQL Server.
 
-Soo to replace my website blog application.
+Soon to replace my website blog application.
 
-### Rwquirement
+### Requirement
 Visual Studio 2019
+https://visualstudio.microsoft.com/
 
 dotnet CLI
+https://dotnet.microsoft.com/download
 
 az CLI
+https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest
 
-Ms SQL Server management
+Ms SQL Server management studio
+https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
