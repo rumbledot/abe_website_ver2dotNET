@@ -1,0 +1,10 @@
+/.vs
+/.vscode
+/appsettings.Development.json
+/appsettings.json
+/bin
+/Board.db
+/Migrations
+/obj
+/Properties
+/website_dotnet.csproj.user
